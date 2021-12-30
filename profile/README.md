@@ -1,4 +1,4 @@
-# Hello, Salam Kenal 👋
+## Hello, Salam Kenal 👋
 
 We are building [Sahara](https://sembakosahara.tech/)
 
